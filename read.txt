@@ -1,0 +1,11 @@
+java file should be inside
+	mongo_java\src\main\java\mongo_java.java
+
+also the folder sholud present named classes with path
+	mongo_java\target\classes
+
+
+mongo_java = root
+
+
+
